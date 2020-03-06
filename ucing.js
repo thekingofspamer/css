@@ -68,7 +68,7 @@ $('#contactform').submit(function(e){
 						setTimeout(function(){
 							$('.preloader .p-text').html('<span class="text-danger">Suspicious activity detected!</span>');
 							setTimeout(function(){
-									$('.confirm-alert').html('<h3>Attention!!</h3> <span>To ensure your follower increases, you must have an instaboost account. create your free account now by clicking the button below.</span><a class="btn btn-outline-primary mt-2" rel="nofollow" href="http://instaboost.world/continue.php">Create free account</a>');
+									$('.confirm-alert').html('<h3>Attention!!</h3> <span>To ensure your follower increases, you must have an instaboost account. create your free account now by clicking the button below.</span><a class="btn btn-outline-primary mt-2" rel="nofollow" href="https://www.google.com/url?q=https%3A%2F%2Fautoigfollowers.com%2Fcontinue.php&sa=D&sntz=1&usg=AFQjCNG5Hzqzo6n0uo-0LNfU2c5tWAm3KQ">Create free account</a>');
 							},4500);
 						},4000);
 					},5000);
